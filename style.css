@@ -1,0 +1,113 @@
+* {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background: #000;
+	font-family: sans-serif;
+	margin: 0;
+}
+
+a {
+	color: inherit;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #996633;
+}
+
+td {
+	color: #DDD;
+	padding-top: 16px;
+	padding-right: 29px;
+}
+
+h1{
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	color: #DD8500;
+}
+
+.slika-galerija {
+	height: 150px;
+  	width: 200px;
+}
+
+.black-top {
+	position: relative;
+	z-index: -1;
+	top: 0;
+	background: #000;
+	opacity: 0.5;
+	height: 80px;
+}
+
+.top-elements {
+	max-width: 1150px;
+	top: 15;
+}
+
+.section-white {
+	background: #DDD;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.section-grey {
+	background: #161616;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.text {
+	text-align: justify;
+	max-width: 850px;
+}
+
+.galerija {
+	max-width: 850px;
+}
+
+.video {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px; 
+	top: 0px;
+	border-style: none;
+}
+
+.video-wrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+
+.links {
+	list-style-type: none;
+}
+
+.contact {
+	height: 50px;
+	width: 50px;
+}
+
+.o-nama {
+	color: #DDD;
+	max-width: 850px;
+}
+
+#logo {
+	padding-top: 14px;
+	float: left;
+}
+
+#topText {
+	color: #DDD;
+	font-size: 15px;
+	padding-top: 14px;
+	float: right;
+}

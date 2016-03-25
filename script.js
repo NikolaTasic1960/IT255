@@ -1,0 +1,1 @@
+alert("Dobrodošli na zvanični sajt StudioA");
